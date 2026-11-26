@@ -1,0 +1,3 @@
+# gradlew debe conservar finales de línea LF para funcionar en Linux y Mac
+gradlew text eol=lf
+*.bat text eol=crlf
